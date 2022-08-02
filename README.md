@@ -12,7 +12,7 @@ about gulp and other task runners
 #### research subjects (webpack and gulp)
 
 <ul>
-<l>https://webpack.js.org/</li>
+<li>https://webpack.js.org/</li>
 <li>https://stackoverflow.com/questions/39753642/switching-from-gulp-to-webpack</li>
 <li>https://stackoverflow.com/questions/46154334/nodejs-converting-gulp-to-webpack</li>
 <li>https://stackoverflow.com/questions/39157962/convert-gulp-task-into-webpack</li>
