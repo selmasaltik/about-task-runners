@@ -11,13 +11,16 @@ about gulp and other task runners
 
 #### research subjects (webpack and gulp)
 
-https://stackoverflow.com/questions/39753642/switching-from-gulp-to-webpack
-https://stackoverflow.com/questions/46154334/nodejs-converting-gulp-to-webpack
-https://stackoverflow.com/questions/39157962/convert-gulp-task-into-webpack
-https://richbray.medium.com/moving-from-gulp-to-webpack-9064b6cf2e08
-https://forestry.io/blog/gulp-and-webpack-best-of-both-worlds/
-https://bnek.github.io/code/2020/06/10/From-gulp-to-webpack.html
-https://css-tricks.com/combine-webpack-gulp-4/
-https://www.npmjs.com/package/gulp-webpack
-https://cecilphillip.com/adding-webpack-to-your-gulp-tasks/
-https://marioyepes.com/use-gulp-and-webpack-toghether/
+<ul>
+<l>https://webpack.js.org/</li>
+<li>https://stackoverflow.com/questions/39753642/switching-from-gulp-to-webpack</li>
+<li>https://stackoverflow.com/questions/46154334/nodejs-converting-gulp-to-webpack</li>
+<li>https://stackoverflow.com/questions/39157962/convert-gulp-task-into-webpack</li>
+<li>https://richbray.medium.com/moving-from-gulp-to-webpack-9064b6cf2e08</li>
+<li>https://forestry.io/blog/gulp-and-webpack-best-of-both-worlds/</li>
+<li>https://bnek.github.io/code/2020/06/10/From-gulp-to-webpack.html</li>
+<li>https://css-tricks.com/combine-webpack-gulp-4/</li>
+<li>https://www.npmjs.com/package/gulp-webpack</li>
+<li>https://cecilphillip.com/adding-webpack-to-your-gulp-tasks/</li>
+<li>https://marioyepes.com/use-gulp-and-webpack-toghether/</li>
+</ul>
